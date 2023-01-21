@@ -55,7 +55,7 @@ ul {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display:inline-block;
     width: 40%;
-    
+    margin-right:12%;
     text-align: left;
    
     
@@ -67,7 +67,7 @@ ol {
     font-weight: 100;
     display:inline-block;
     width: 40%;
-    
+    margin:auto;
     text-align: right;
 
 
